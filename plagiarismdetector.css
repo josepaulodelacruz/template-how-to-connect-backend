@@ -1,0 +1,212 @@
+body{
+    background-image: url('../HOMEPAGE.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.image_one{ 
+    position: absolute;
+    left: 35px;
+    top: 18px;
+    width: 35px;
+    height: 30px;
+}
+.text-here{
+    resize: none;
+    border-color: grey;
+}
+.text_up{
+    position: absolute;
+    right: 245px;
+    top: 20px;
+    background-color: gold;
+    color: black;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    border-radius: 20px;
+    border-color: black;
+    padding: 5px 15px;
+    transition: transform .4s;
+    font-size: 13px; 
+}
+.text_title{
+    position:absolute;
+    right: 230px;
+    top: 30px;
+    font-size: small;
+}
+.image_2{
+    width: 23px;
+    height: 15px;
+    position: absolute;
+    left: 1004px;
+    top: 27px;
+}
+.image_5{
+    width: 28px;
+    height: 28px;
+    position: absolute;
+    left: 1170px;
+    top: 22px;
+}
+ header {
+  background-color:  lightgrey;
+  padding: 20px;
+  text-align: left;
+  color: black;
+  font-size: 4px;
+;
+}
+.text_home{
+    font-size: 18px;
+    position: absolute;
+    left: 105px;
+    top: 79px;
+}
+.text_gram{
+    font-size: 18px;
+    position: absolute;
+    left: 210px;
+    top: 70px;
+    border: 2px solid transparent;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px;
+    background-color: rgb(199, 5, 5);
+    transition: transform .4s;    
+}
+.text_plagi{
+    font-size: 18px;
+    position: absolute;
+    left: 570px;
+    top: 70px;
+    border: 2px solid transparent;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px;
+    background-color: rgb(199, 5, 5);
+    transition: transform .4s;   
+}
+.text_both{
+    font-size: 18px;
+    position: absolute;
+    left: 850px;
+    top: 70px;
+    background-color: rgb(199, 5, 5);
+    transition: transform .4s;
+    border: 2px solid transparent;
+    text-decoration: none;
+    padding: 5px 15px;
+    border-radius: 30px;   
+}
+.home_pic{
+    position: absolute;
+    left: 60px;
+    top: 73px;
+    width: 35px;
+    height: 30px;
+}
+.image_six{
+    size-adjust: auto;
+    position: absolute;
+    right: 200px;
+    bottom: 130px;
+}
+.image_paper{
+    size-adjust: auto;
+    position: absolute;
+    right: 400px;
+    bottom: 130px;
+}
+.image_x{
+    size-adjust: auto;
+    position: absolute;
+    right: 600px;
+    bottom: 130px;
+}
+.image_abc{
+    size-adjust: auto;
+    position: absolute;
+    right: 800px;
+    bottom: 130px;
+}
+.image_check{
+    size-adjust: auto;
+    position: absolute;
+    left: 200px;
+    bottom: 130px;
+}
+.text_six{
+    size-adjust: auto;
+    position: absolute;
+    right: 175px;
+    bottom: 60px;
+    font-size: medium;
+}
+.text_paper{
+    size-adjust: auto;
+    position: absolute;
+    right: 350px;
+    bottom: 25px;
+    font-size: medium;
+}
+.text_x{
+    size-adjust: auto;
+    position: absolute;
+    right: 570px;
+    bottom: 60px;
+    font-size: medium;
+}
+.text_abc{
+    size-adjust: auto;
+    position: absolute;
+    right: 795px;
+    bottom: 60px;
+    font-size: medium;
+}
+.text_check{
+    size-adjust: auto;
+    position: absolute;
+    left: 160px;
+    bottom: 60px;
+    font-size: medium;
+}
+.check_now{
+    background-color: rgb(58, 202, 1);
+    color: azure;
+    text-decoration: none;
+    border: 2px solid transparent;
+    font-weight: bold;
+    padding: 5px 15px;
+    border-radius: 30px;
+    border-color: black;
+    transition: transform .4s;
+    position: absolute;
+    bottom: 28%;
+    left: 12%;
+}
+.upload_file{
+background-color: grey;
+color: whitesmoke;
+text-decoration: none;
+border: 2px solid transparent;
+font-weight: bold;
+padding: 5px 15px;
+border-radius: 30px;
+border-color: black;
+transition: transform .4s;
+position: absolute;
+bottom: 28%;
+left: 29%;
+}
+.check_now {background-color:  rgb(58, 202, 1);}
+.check_now {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.upload_file {background-color: grey}
+.upload_file {
+  background-color: grey;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
